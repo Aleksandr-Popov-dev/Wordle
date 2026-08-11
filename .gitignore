@@ -1,0 +1,32 @@
+# macOS системные файлы
+.DS_Store
+
+# Xcode пользовательские настройки и сгенерированные файлы
+xcuserdata/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Временные файлы, создаваемые Xcode
+*.xccheckout
+*.xcscmblueprint
+*.moved-aside
+
+# Сгенерированные файлы сборки и упаковки приложения
+build/
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Playgrounds (если они есть в проекте)
+playground.xcworkspace
+timeline.xctimeline
+
+# Папка сборки Swift Package Manager
+.build/
+
+# Папка для скриншотов, если ты используешь fastlane
+fastlane/screenshots/**/*.png
+fastlane/test_output
