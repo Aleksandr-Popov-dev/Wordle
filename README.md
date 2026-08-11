@@ -28,8 +28,7 @@
 
 ## 🚀 Как запустить
 
-1. Склонируй репозиторий:
-   git clone https://github.com/твой-ник/wordle-clone.git
+1. Склонируй репозиторий
 2. Открой проект в Xcode (файл .xcodeproj или .xcworkspace)
 3. Выбери симулятор iPhone (или свой девайс)
 4. Нажми Run
